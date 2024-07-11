@@ -1,5 +1,5 @@
-<h1>kewltab</h1>
-a kewler tab than google's new tab page
+<h1>ktrrtab</h1>
+very gud new tab page
 
 <h2>how to install??</h2>
 1. download this as a zip <br>
